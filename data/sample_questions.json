@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Can penguins fly?",
+    "answer": "No"
+  },
+  {
+    "question": "Did the Roman Empire exist at the same time as the Mayan civilization?",
+    "answer": "Yes"
+  },
+  {
+    "question": "Is Mount Everest taller than Mount Kilimanjaro?",
+    "answer": "Yes"
+  },
+  {
+    "question": "Is the Earth closer to the Sun than Mars?",
+    "answer": "Yes"
+  },
+  {
+    "question": "Do whales breathe underwater like fish?",
+    "answer": "No"
+  }
+]
