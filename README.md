@@ -1,5 +1,7 @@
 # LLM Debate + Judge Pipeline
 
+> **Known issues (fix in progress): **Debater A's prompt file says "Debater B", and the judge's answer can be misread when the reasoning model runs out of tokens before writing FINAL_ANSWER. Treat the accuracy numbers below as preliminary until the fix is published.
+
 ## Overview
 
 This project implements a multi-agent LLM debate system.
